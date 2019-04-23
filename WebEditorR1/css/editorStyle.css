@@ -1,0 +1,23 @@
+#html,
+#css,
+#js {
+	position: relative;
+	height: 300px;
+}
+
+#header {
+}
+
+#livePreview {
+	height: 400px;
+	width: 540px;
+	border: 1px solid #f4f4f4;
+	border-radius: 10px;
+}
+
+#footer {
+	height: 50px;
+	padding: 13px;
+	border: 1px solid lightseagreen;
+	margin-top: 80px;
+}
